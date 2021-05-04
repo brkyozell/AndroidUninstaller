@@ -2,8 +2,8 @@
 Android'de kaldırılamayan programları kaldırın.
 
 # Özellikleri
-Root gerektirmez.
-Taşınabilir(Portable).
+Root gerektirmez.<br>
+Taşınabilir(Portable).<br>
 Dosya boyutu oldukça küçük.
 
 # Nasıl kullanılır?
